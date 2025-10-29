@@ -1,0 +1,13 @@
+/* Estilização opcional para melhorar a aparência */
+table {
+  font-size: 0.9rem;
+}
+
+td, th {
+  vertical-align: top;
+}
+
+.btn-danger {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.8rem;
+}
